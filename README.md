@@ -1,7 +1,4 @@
-# sapper-template
-
-The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
-
+# Sapper Tailwind Template
 
 ## Getting started
 
@@ -12,15 +9,7 @@ The default [Sapper](https://github.com/sveltejs/sapper) template, available for
 
 ```bash
 # for Rollup
-npx degit "sveltejs/sapper-template#rollup" my-app
-# for webpack
-npx degit "sveltejs/sapper-template#webpack" my-app
-```
-
-
-### Using GitHub templates
-
-Alternatively, you can use GitHub's template feature with the [sapper-template-rollup](https://github.com/sveltejs/sapper-template-rollup) or [sapper-template-webpack](https://github.com/sveltejs/sapper-template-webpack) repositories.
+npx degit yekta/sapper-tailwind-template my-app
 
 
 ### Running the project
