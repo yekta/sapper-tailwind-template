@@ -1,6 +1,6 @@
 # Sapper Tailwind Template
 
-This is a project template for [Sapper](https://sapper.svelte.dev) apps using [Tailwindcss](https://tailwindcss.com/). Add your custom CSS to `src/css/tailwind.css`and it'll get complied to `static/global.css`.
+This is a project template for [Sapper](https://sapper.svelte.dev) apps using [Tailwindcss](https://tailwindcss.com/). Add your custom CSS to `src/css/tailwind.css` and it'll get complied to `static/global.css`.
 
 ## Getting started
 
